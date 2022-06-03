@@ -1,9 +1,9 @@
 # mayarog20.github.io
 CIT 281 
 Lab 1
-  - Install and setup your personal computer with the software tools required for this course
+  Install and setup your personal computer with the software tools required for this course
 Lab 2
-  - Use CLI commands for directory and file manipulation in Java and Git
+  Use CLI commands for directory and file manipulation in Java and Git
 Lab 3
   - Refactoring JavaScript, destructuring, converting, syntax for..in, for..of, Node.js
 Lab 4
